@@ -1,0 +1,8 @@
+﻿  test.cpp
+  NOTE: Use of this header (boost/multiprecision/random.hpp) is deprecated: please use the random number library headers directly.
+c:\mercylin_code\项目\加密_大数版\加密_大数版\test.cpp(44): warning C4244: “参数”: 从“time_t”转换到“const UIntType”，可能丢失数据
+          with
+          [
+              UIntType=uint32_t
+          ]
+  加密_大数版.vcxproj -> C:\Mercylin_Code\项目\加密_大数版\x64\Debug\加密_大数版.exe

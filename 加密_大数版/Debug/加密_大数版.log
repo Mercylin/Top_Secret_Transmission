@@ -1,0 +1,8 @@
+﻿  RSA.cpp
+c:\mercylin_code\项目\加密_大数版\加密_大数版\rsa.cpp(28): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+c:\mercylin_code\项目\加密_大数版\加密_大数版\rsa.cpp(57): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+c:\mercylin_code\项目\加密_大数版\加密_大数版\rsa.cpp(116): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\mercylin_code\项目\加密_大数版\加密_大数版\rsa.cpp(161): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test.cpp
+  正在生成代码...
+  加密_大数版.vcxproj -> C:\Mercylin_Code\项目\加密_大数版\Debug\加密_大数版.exe
